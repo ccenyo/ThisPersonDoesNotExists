@@ -66,6 +66,14 @@
 					<target>17</target>
 				</configuration>
 			</plugin>
+			<plugin>
+				<groupId>com.heroku.sdk</groupId>
+				<artifactId>heroku-maven-plugin</artifactId>
+				<version>3.0.3</version>
+				<configuration>
+					<jdkVersion>11</jdkVersion>
+				</configuration>
+			</plugin>
 		</plugins>
 	</build>
 
