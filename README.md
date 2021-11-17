@@ -2,6 +2,7 @@
 This is an Unofficial API of the website https://thispersondoesnotexist.com. it generates a random person picture using AI.
 Everytime you open the page a new image is generated. I just made a code to return the image in byte.
 
+The API is free of use here https://rapidapi.com/cenyo/api/thispersondoesnotexists
 
 #Requirements
 
